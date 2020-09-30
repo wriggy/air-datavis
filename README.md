@@ -12,9 +12,11 @@ Ten year means were calculated as shown in the barcharts below. Not all pollutan
 
 ![means](https://github.com/wriggy/air-datavis/blob/master/vis/F2_no2_pm_o3_means.png)
 
-There are strong seasonal variations in air pollution levels so smoothed time series have been plotted. The aim is to reveal underlying trends over the decade and to suggest how the different sites compare. Each point is an average of the preceding 365 daily means and the WHO guideline limit for the annual mean is shown for context. </br></br>*To minimise artefacts due to missing data, thresholds were set of 20 hours per daily mean and 75% of daily means per annual mean.*
+There are strong seasonal variations in air pollution levels so smoothed time series have been plotted. The aim is to reveal underlying trends over the decade and to suggest how the different sites compare. 
 
 ![trends](https://github.com/wriggy/air-datavis/blob/master/vis/F3_no2_rolling_annual_means.png)
+
+![trends_2](https://github.com/wriggy/air-datavis/blob/master/vis/F5_o3_WHO_guideline_exceedences.png)
 
 To get a view on how air quality varies throughout the day and over the year, ten years of pollutant data were split into month categories and averaged by hour (GMT). The resultant plots show how morning and afternoon peaks vary throughout the year. Note British Summer time is 1 hour later than GMT and runs from late March to late October. So any rush hour effects would appear 1 hour earlier in GMT.
 
