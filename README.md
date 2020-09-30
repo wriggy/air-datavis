@@ -8,7 +8,7 @@ The locations of Automatic Urban and Rural Network (AURN) sites monitoring backg
 
 ![map](https://github.com/wriggy/air-datavis/blob/master/vis/F1_no2_aurn_sitemap.png)
 
-Ten year means were calculated as shown in the barcharts below. Not all pollutants are measured at all sites. 
+Ten year means were calculated to show how Warrington compared with the rest of the region. Note not all pollutants are measured at all sites. 
 
 ![means](https://github.com/wriggy/air-datavis/blob/master/vis/F2_no2_pm_o3_means.png)
 
