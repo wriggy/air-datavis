@@ -1,0 +1,11 @@
+figure.figsize : 10,8
+figure.facecolor : f6f6f6
+axes.titlesize : 16
+xtick.bottom : False
+ytick.left : False
+xtick.color : 666666
+ytick.color : 666666
+xtick.labelsize : 10
+ytick.labelsize : 10
+grid.alpha : 0.6
+savefig.dpi : 90
