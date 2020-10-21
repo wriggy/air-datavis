@@ -1,5 +1,6 @@
 figure.figsize : 10,8
 figure.facecolor : f6f6f6
+figure.titlesize : 20
 axes.titlesize : 16
 xtick.bottom : False
 ytick.left : False
