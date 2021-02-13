@@ -1,6 +1,6 @@
 # Exploring Air Quality Data  
 
-***A personal project to investigate the background air quality of Warrington (north west England) with an emphasis on data visualisation. Sample charts below. See the jupyter notebook A2_WAR_AQ.ipynb for discussion and python code.***
+***A personal project to investigate the background air quality of Warrington (north west England) with an emphasis on data visualisation. Sample charts below. See the jupyter notebook A2_WAR_AQ.ipynb for discussion and python code. (Data wranging in A1 and further charts in A3)***
 
 ---
 
@@ -29,3 +29,11 @@ The data were split into categories and the quantiles calculated to give some in
 To explore the impact of winds on the dispersion of local pollutants I looked at the particulate data around bonfire night (November 5th) together with modelled wind speed data for Warrington, 2010-2019. 2012 had the lowest mean modelled wind speed averaging about 1m/s for the 12 hours from 6pm on November 5th. 2016 had the highest at 7.3 m/s.
 
 ![bonfire night](https://github.com/wriggy/air-datavis/blob/master/vis/F10_bonfire_night_war_pm25.png)
+
+To see the overall picture of how pollutant levels have varied over the last 10 years or so, daily means were plotted as colour coded bars to create a multiyear stripe chart.
+
+![data_patterns](https://github.com/wriggy/air-datavis/blob/master/vis/F11_WAR_NO2_daily_means.png)
+
+To see how 2020 compared with recent years the smoothed time series for the year was superimposed on the range of pollutant measurements for the preceding decade.
+
+![comparison 2020](https://github.com/wriggy/air-datavis/blob/master/vis/F12_MAN3_no2_20.png)
